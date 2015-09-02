@@ -4,14 +4,13 @@ title: Home
 tagline: A kid friendly, family friendly, federated, open source gaming platform
 blog_root: /
 site_title: World of GameZ
-
 ---
 
 # Welcome
 
-To World of GameZ.
+To World of [GameZ](https://github.com/worldofgamez).
 
-
+## Blog Posts:
 
 <ul class="posts" style="list-style: none" data-lift="blog.posts?max=15">
     <li data-post="item"><h2><a data-post="link" href="#">Blog Post</a></h2>
